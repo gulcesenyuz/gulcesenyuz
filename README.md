@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS as Backend**
 
-- 💬 Ask me about **Mobile app design (UI/ UX))**
+- 💬 Ask me about **Mobile app design (UI/UX)/ Application with Flutter Freamwork **
 
 - 📫 How to reach me **eclipticdesignmobile@gmail.com**
 
