@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a project for Bahçeşehir University Erasmus Office' Help Desk 
-- ![](images/giriş.png)
+![](C:\Users\gizem\Desktop\BAU-EXCHANGE\giriş.png)
 - 🌱 I’m currently learning NodeJs as a backend 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
