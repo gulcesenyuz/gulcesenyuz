@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gülce</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Bahçeşehir University Erasmus Office' Help Desk Mobile Application**
 
 - 🌱 I’m currently learning **NodeJS as Backend**
 
-- 💬 Ask me about **Mobile app design (UI/ UX)/ Mobile Application with Flutter Freamwork**
+- 💬 Ask me about **Mobile app design (UI/ UX)/ Mobile Application with Flutter Framework**
 
 - 📫 How to reach me **eclipticdesignmobile@gmail.com**
 
