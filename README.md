@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gulcesenyuz/gulcesenyuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on a project for Bahçeşehir University Erasmus Office' Help Desk 
 - ![](images/giriş.png)
@@ -13,4 +10,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
