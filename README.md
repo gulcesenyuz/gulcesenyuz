@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gülce-külahçıoğlu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gülce-külahçıoğlu-39b793207/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g%C3%BClce-k%C3%BClah%C3%A7%C4%B1o%C4%9Flu-39b793207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gülce-külahçıoğlu-39b793207/" height="30" width="40" /></a>
 <a href="https://instagram.com/ecliptic_design" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ecliptic_design" height="30" width="40" /></a>
 </p>
 
