@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gülce</h1>
 
-- 🔭 I’m currently working on **Bahçeşehir University Erasmus Office' Help Desk Mobile Application**
-
 - 🌱 I’m currently learning **NodeJS as Backend**
 
 - 💬 Ask me about **Mobile app design (UI/ UX)/ Mobile Application with Flutter Framework**
