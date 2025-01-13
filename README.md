@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gülce</h1>
 
-- 🌱 I’m currently learning **NodeJS as Backend**
+- 💬 Ask me about **Mobile app design (UI/ UX)/ Mobile Application with Android Development**
 
-- 💬 Ask me about **Mobile app design (UI/ UX)/ Mobile Application with Flutter Framework**
-
-- 📫 How to reach me **eclipticdesignmobile@gmail.com**
+- 📫 How to reach me **gulcesenyuz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
